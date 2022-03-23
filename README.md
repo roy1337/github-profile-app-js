@@ -3,4 +3,4 @@
 This JS app uses github API to fetch info about users.
 Feel free to view any profile's card on:
 
-www.githubcardprofile.netlify.app
+https://githubcardprofile.netlify.app
