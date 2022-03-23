@@ -97,7 +97,7 @@ body {
   display: inline-block;
 }
 #fronthead {
-  position: absolute;
+  position: relative;
   margin-top: -10rem;
 }
 
